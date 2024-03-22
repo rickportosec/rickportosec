@@ -1,7 +1,6 @@
 #### SCIENCE COMPUTER && OFFENSIVE SECURITY
 ![](https://img.shields.io/badge/Discord-7289DA?style=casual&logo=discord&logoColor=white&label=@rickportosec)
 ![](https://img.shields.io/badge/Instagram-E4405F?style=casual&logo=instagram&logoColor=white&label=@rickportosec&link=https://www.instagram.com/@rickportosec)
-![](https://img.shields.io/badge/YouTube-FF0000?style=casual&logo=youtube&logoColor=white&label=@rickporto&link=https://www.youtube.com/@rickportosec)
 ###### LANGS 
 ```shell
 RS ⚙ ~ PY ~ SH ~ PS1
